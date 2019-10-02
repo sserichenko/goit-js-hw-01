@@ -9,7 +9,7 @@ if(password===null){
 else
   if (password===ADMIN_PASSWORD)
 {
-  message = 'добро пожаловать!';
+  message = 'Добро пожаловать!';
   console.log(message);
 }
 else
