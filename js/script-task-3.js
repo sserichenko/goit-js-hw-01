@@ -17,5 +17,4 @@ else
   message = 'Доступ запрещен, не верный пароль';
   console.log(message);
 }
-
 alert(message);
